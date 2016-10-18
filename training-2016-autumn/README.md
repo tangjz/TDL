@@ -33,7 +33,7 @@
 	http://acm.hdu.edu.cn/contests/contest_show.php?cid=705
 	2016-07-19	11/11	2016 Multi-University Training Contest 1
 	http://acm.hdu.edu.cn/contests/contest_show.php?cid=704
-	2016-07-17	08/09	2012 Multi-University Training Contest 4
+	2016-07-17	07/09	2012 Multi-University Training Contest 4
 	https://acm.bnu.edu.cn/v3/contest_show.php?cid=8018
 	2016-07-08	10/12	XVI Open Cup Grand Prix of Siberia
 	http://opentrains.snarknews.info/~ejudge/team.cgi?contest_id=010316
