@@ -29,7 +29,7 @@
 	http://acm.hdu.edu.cn/contests/contest_show.php?cid=713
 	2016-08-11	06/11	2016 Multi-University Training Contest 8
 	http://acm.hdu.edu.cn/contests/contest_show.php?cid=711
-	2016-07-21	10/13	2016 Multi-University Training Contest 2
+	2016-07-21	06/13	2016 Multi-University Training Contest 2
 	http://acm.hdu.edu.cn/contests/contest_show.php?cid=705
 	2016-07-19	11/11	2016 Multi-University Training Contest 1
 	http://acm.hdu.edu.cn/contests/contest_show.php?cid=704
