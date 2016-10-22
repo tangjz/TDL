@@ -9,6 +9,8 @@
 ---
 
 ## Training List (cur/tot) (incomplete)
+	2016-10-20	07/10	2015 ACM-ICPC Asia Tehran Regional Contest
+	http://vjudge.net/contest/137629
 	2016-10-04	09/10	2016 Sichuan Province Contest
 	https://acm.bnu.edu.cn/v3/contest_show.php?cid=8547
 	2016-10-02	07/12	XVII Open Cup Grand Prix of Eurasia
