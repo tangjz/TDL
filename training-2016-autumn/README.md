@@ -9,6 +9,8 @@
 ---
 
 ## Training List (cur/tot) (incomplete)
+	2016-10-27	10/10	2015 ACM-ICPC Asia Dhaka Regional Contest
+	http://vjudge.net/contest/138568
 	2016-10-20	08/10	2015 ACM-ICPC Asia Tehran Regional Contest
 	http://vjudge.net/contest/137629
 	2016-10-04	09/10	2016 Sichuan Province Contest
