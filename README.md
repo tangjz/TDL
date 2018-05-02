@@ -6,5 +6,5 @@
 
 `/training-year-season`: codes for trainings at some season of some year.
 
-More information : [TDL's Wiki - TDL](https://wiki-tdl.icpc-camp.org/)
+More information : [ICPCCamp Wiki - TDL](https://wiki.icpc-camp.org/tdl/Front%20Page)
 
