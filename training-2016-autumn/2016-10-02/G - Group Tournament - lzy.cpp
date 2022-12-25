@@ -71,7 +71,7 @@ int main() {
 			} else if (str[i][j] == 'W') {
 				arc(R, i, 3);
 				arc(R, j, 0);
-			} 
+			}
 			fuck[i][j] = lnk[R++];
 		}
 	}

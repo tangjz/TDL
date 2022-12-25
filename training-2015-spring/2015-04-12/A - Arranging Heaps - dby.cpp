@@ -23,7 +23,7 @@ int main(){
 		for(int i = 0;i < n;++ i){
 			scanf("%d%d",&x[i],&w[i]);
 			ws[i] = i ? ws[i - 1] + (ll)w[i] : (ll)w[i];
-			wx[i] = i ? wx[i - 1] + (ll)w[i] * (ll)x[i] : (ll)w[i] * (ll)x[i]; 
+			wx[i] = i ? wx[i - 1] + (ll)w[i] * (ll)x[i] : (ll)w[i] * (ll)x[i];
 		}
 		for(int i = 0;i < n;++ i)
 			f[0][i] = ws[i] * x[i] - wx[i];
@@ -45,4 +45,4 @@ int main(){
 		printf("%lld\n",f[now][n - 1]);
 	}
 	return 0;
-} 
+}

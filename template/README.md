@@ -1,6 +1,6 @@
 # Code Library
 
-Template sources and auto-generator for team TDL. 
+Template sources and auto-generator for team TDL.
 
 ---
 
@@ -8,7 +8,7 @@ Template sources and auto-generator for team TDL.
 
 ### 1. Dynamic Programming
 
-Samples of DP, completely monotonic optimization, prefix state DP, and more... 
+Samples of DP, completely monotonic optimization, prefix state DP, and more...
 
 ### 2. Data Structure and Algorithm
 

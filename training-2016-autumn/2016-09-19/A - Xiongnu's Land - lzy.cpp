@@ -38,7 +38,7 @@ int main() {
 				if (now == -1) now = sum;
 				if (now == sum) ans = i;
 			}
-			//printf("%d %d %lld %d %lld\n", i, ans, sum, cur, now); 
+			//printf("%d %d %lld %d %lld\n", i, ans, sum, cur, now);
 			while (n < m && r[n].x == i) cur += r[n++].len;
 			sum += cur;
 		}

@@ -24,7 +24,7 @@ int main() {
 		int det = ans;
 		for (int i = 0; i < n; ++i)
 			for (int j = 0; j < c[i]; ++j) {
-				int d = x[i][p[i]] - x[i][j]; 
+				int d = x[i][p[i]] - x[i][j];
 				if (d % m && det > d) {
 					det = d;
 					s = i;

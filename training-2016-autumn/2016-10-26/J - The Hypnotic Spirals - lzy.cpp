@@ -59,7 +59,7 @@ int main() {
 			while (dcmp(a * (y[m] + 2 * k * pi) - x[m]) <= 0) ++k;
 			--k;
 			int i = upper_bound(s, s + n, y[m] + eps) - s;
-			if (i == n) i = 0, ++k; 
+			if (i == n) i = 0, ++k;
 			if (use[i].count(k)) continue;
 			use[i].insert(k);
 			if (i) {
@@ -67,7 +67,6 @@ int main() {
 			} else {
 				ans += sum(0, s[0], k) + sum(s[n - 1], 2 * pi, k - 1);
 			}
-			
 		}
 		printf("Spiral %d: %.4f liters\n", T, ans * .1);
 	}

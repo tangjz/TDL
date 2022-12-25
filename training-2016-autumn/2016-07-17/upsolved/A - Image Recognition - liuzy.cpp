@@ -45,7 +45,7 @@ void findOne(int pos, int si, int ei, int di, int sj, int ej, int dj, int curi, 
 	for(i = si;i != ei;i += di)
 	{
 		for(j = sj;j != ej;j += dj)
-			one[pos][i][j] = matrix[i][j]?(one[pos][i + curi][j + curj] + 1):0; 
+			one[pos][i][j] = matrix[i][j]?(one[pos][i + curi][j + curj] + 1):0;
 	}
 }
 

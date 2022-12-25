@@ -42,7 +42,7 @@ int main()
 			ans+=-m+1;
 			cnt=-m+1;
 		}
-		for (int i=0;i<l;++i) 
+		for (int i=0;i<l;++i)
 		{
 			cnt+=s[i]=='*'?-1:1;
 			if (cnt<=0)

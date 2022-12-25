@@ -55,7 +55,7 @@ int main() {
 			}
 			if (no()) {
 				printf("Case #%d: %d\n", T, t);
-				break; 
+				break;
 			}
 		 }
 	}
